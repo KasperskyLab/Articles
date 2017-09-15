@@ -3,7 +3,8 @@
 
     Anti-Sandboxing: Wait for Mouse Click PoC: https://wikileaks.org/ciav7p1/cms/page_2621847.html
 
-    [TODO: add article link here]
+    RU: https://securelist.ru/a-modern-hypervisor-as-a-basis-for-a-sandbox/80739/
+    EN: https://securelist.com/a-modern-hypervisor-as-a-basis-for-a-sandbox/81902/
 */
 
 #include "stdafx.h"
